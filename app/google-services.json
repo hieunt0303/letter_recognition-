@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985837294776",
+    "project_id": "text-recognition-7bf86",
+    "storage_bucket": "text-recognition-7bf86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985837294776:android:1745c3825be4c2c209504d",
+        "android_client_info": {
+          "package_name": "com.example.gesture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985837294776-6531596omat2q1s96n033djutkgb8nbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5hgcMhG-R25of9iCAMigqCWgpJD5ak34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985837294776-6531596omat2q1s96n033djutkgb8nbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
