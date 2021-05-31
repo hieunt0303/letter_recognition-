@@ -2,6 +2,11 @@
 # Nhận diện chữ viết
 DUMA là nhận diện chữ viết chữ k phải nhận diện gương mặt nha mn, tự nhiên commit nhầm tên
 
+## Link youtube hướng dẫn demo
+
+[YouTube](https://www.youtube.com/watch?v=VHddyiNi5b8&t=25s)
+
+
 ## Cách làm 
 
 Tạo bitmap -> vẽ canvas lên bitmap dùng Paint để lưu lạ nét vẽ  
